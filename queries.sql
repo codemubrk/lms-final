@@ -185,7 +185,7 @@ CREATE TABLE `lms_setting` (
 --
 
 INSERT INTO `lms_setting` (`setting_id`, `library_name`, `library_address`, `library_contact_number`, `library_email_address`, `library_total_book_issue_day`, `library_one_day_fine`, `library_issue_total_book_per_user`, `library_currency`, `library_timezone`) VALUES
-(1, 'Abaarso Tech', 'Hargeisa,Somaliland', '7539518521', 'info@atu.edu', 10, '1.00', 3, 'INR', 'Africa/Mogadishu');
+(1, 'Abaarso Tech', 'Hargeisa,Somaliland', '7539518521', 'info@atu.edu', 10, '1.00', 3, 'USD', 'Africa/Mogadishu');
 
 -- --------------------------------------------------------
 
